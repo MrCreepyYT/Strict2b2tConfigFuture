@@ -1,0 +1,1 @@
+# Strict2b2tConfigFuture
